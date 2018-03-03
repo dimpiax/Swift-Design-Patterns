@@ -27,8 +27,8 @@ pool.releaseItem(b)
 // Pool<Snowflake> busy: 1 free: 1
 ```
 
-## Author
+### Author
 Dima Pilipenko, dimpiax@gmail.com
 
-## License
+### License
 ObjectPool is available under the MIT license. See the LICENSE file for more info.
