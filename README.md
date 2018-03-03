@@ -10,6 +10,7 @@ Collection of design patterns written on Swift with UML visualization
 ## Structural
 
 ## Behavioral
+[ChainOfResponsibility](./Behavioral/ChainOfResponsibility/)
 
 ### Author
 Dima Pilipenko, dimpiax@gmail.com
