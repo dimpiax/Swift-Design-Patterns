@@ -8,6 +8,7 @@ Collection of design patterns written on Swift with UML visualization
 [ObjectPool](./Creational/ObjectPool/)
 
 ## Structural
+[Decorator](./Structural/Decorator/)
 
 ## Behavioral
 [ChainOfResponsibility](./Behavioral/ChainOfResponsibility/)
